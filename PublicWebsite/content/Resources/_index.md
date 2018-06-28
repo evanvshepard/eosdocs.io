@@ -74,3 +74,6 @@ weight: 4
 * https://medium.com/@bytemaster/debunking-claimed-vulnerability-in-eosio-smart-contract-system-9fa1ca2a6428
 * [Mitigate DDOS on AWS](https://steemit.com/eos/@eosnodeone/prevent-ddos-with-aws-network-load-balancer)
 * [A well-organised Security Response Cooperative System can protect EOS from DDoS](https://steemit.com/en/@eoseoul/worker-proposal-a-well-organised-security-response-cooperative-system-can-protect-eos-from-ddos)
+
+#### Airdrops
+* [HorusPay Airdrop Calculator] (http://airdropcalculator.horuspay.io/#/)
